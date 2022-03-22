@@ -1,7 +1,7 @@
-<h1>Future-Ready-Talent-MY-Project</h1>
-#picshographyy
-#The Tour Portal-project
-#Web App project
+<h1>Future-Ready-Talent-MY-Project</h1><h2><i>picshographyy</i></h2>
+
+<h2>The Tour Portal-project</h2>
+<h3>Web App project</h3>
 
 Final Project Submission for Microsoft Future-Ready-Talent
 Project Description: In todays scenario, many companies in the field of edu-tech have launched their websites through which students can learn technical skills. But there are very few website who offer artistic skill courses. To promote art and to provide a quality guidelines and mentoring in the field of photography I have created a portfolio website in the name of my Insta Handle i.e Picshographyy where interested people can easily find my work and reach me out for further guidelines People who are interested in taking up any course they can find the pricing of courses offered in the bottom of the page and can join the course by clicking on JOIN US tab. We are using Azure Technologies with GitHub to complete this project.
