@@ -14,7 +14,7 @@ Please Find Scrrenshots of Projects in ScreenShot Folder of this repository. Mak
 <h3>Deploy on Microsoft Azure:</h3>
 
   <ol><li>First step is to go to Azure portal Go to: https://portal.azure.com</li>
-<img src="Screenshots/Screenshot (433).png" height=200px width=500px/>
+<img src="Screenshots/Screenshot (432).png" height=400px width=700px/>
 <li>Click on create Resource(+) Select Web as categories, On the Basics tab, Enter the following values for each setting. Setting Value Details Project Details Subscription Select your Subscription The web app you are creating must belong to a resource group. Here, you select the Azure subscription to which the resource group belongs (or will belong, if you are creating it within the wizard). Resource Group Select your resource group The resource group to which the static web app will belong. All Azure resources must belong to a resource group. Static Web app details Name Enter a unique name The name of your web app. This name will be part of the app's URL: appname.azurewebsites.net. The name you choose must be unique among all Azure web apps. Plan Type Free:For hobby or personal projects
 Region Select the geographical region from which your app will be hosted. Source Select Github as we will deploy from github GitHub Account Click Signin with GitHub, enter credentials and connect your github account then it will shhow your Account name Organization GitHubAccountName Repository Name of repository where you have files/webpages Branch by default(main) or other branch if you have</li>
 
