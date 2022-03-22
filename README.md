@@ -11,7 +11,7 @@ Please Find Scrrenshots of Projects in ScreenShot Folder of this repository. Mak
 <ul><li>First complete your coding portion on your local machine or editor </li>
     <li>Make a repository in GitHub</li>
     <li>Upload code and complete repository</li></ul>
-<h3>Deploy on Microsoft Azure:<h3/>
+<h3>Deploy on Microsoft Azure:</h3>
 
   <ol><li>First step is to go to Azure portal Go to: https://portal.azure.com</li>
 
