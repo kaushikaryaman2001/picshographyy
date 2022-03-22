@@ -24,8 +24,6 @@ Region Select the geographical region from which your app will be hosted. Source
 
 <li>Azure Static Web App is Software as a service(SaaS), so we don't have to manage infrastracture or platform part like you don't have to manage Virtual Machines, the infrastructure is build and manged automatically by Microsoft Azure. Using SaaS we only have to manage Data+Access. Builing and Deploying on Static Web App service of Micrsoft Azure is easy.</li>
   </ol>
-  ![IMG_20200506_175910](https://user-images.githubusercontent.com/56480287/159488850-a8cb3b5a-3107-4849-b261-2b001761c522.jpg)
-
   <h2>Demo of Azure Static web app: URL:</h2> https://lemon-flower-0f27cd310.1.azurestaticapps.net
 <h3>Sample Screenshots of the Deployed Web App : </h3>
 <img src="Screenshots/Screenshot (434).png" height=400px width=700px/>
