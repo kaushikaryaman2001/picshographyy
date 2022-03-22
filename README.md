@@ -6,7 +6,7 @@
 <h2><u>Final Project Submission for Microsoft Future-Ready-Talent</u></h2>
 Project Description: In todays scenario, many companies in the field of edu-tech have launched their websites through which students can learn technical skills. But there are very few website who offer artistic skill courses. To promote art and to provide a quality guidelines and mentoring in the field of photography I have created a portfolio website in the name of my Insta Handle i.e Picshographyy where interested people can easily find my work and reach me out for further guidelines People who are interested in taking up any course they can find the pricing of courses offered in the bottom of the page and can join the course by clicking on JOIN US tab. We are using Azure Technologies with GitHub to complete this project.
 
-Please Find Scrrenshots of Projects in ScreenShot Folder of this repository. Make a code:
+Please Find Screenshots of Projects in ScreenShots Folder of this repository. Make a code:
 <h3>Step to follow before deployment of the application</h3>
 <ul><li>First complete your coding portion on your local machine or editor </li>
     <li>Make a repository in GitHub</li>
