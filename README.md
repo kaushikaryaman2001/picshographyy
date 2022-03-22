@@ -27,3 +27,9 @@ Region Select the geographical region from which your app will be hosted. Source
   ![IMG_20200506_175910](https://user-images.githubusercontent.com/56480287/159488850-a8cb3b5a-3107-4849-b261-2b001761c522.jpg)
 
   <h2>Demo of Azure Static web app: URL:</h2> https://lemon-flower-0f27cd310.1.azurestaticapps.net
+<h3>Sample Screenshots of the Deployed Web App : </h3>
+<img src="Screenshots/Screenshot (434).png" height=400px width=700px/>
+<img src="Screenshots/Screenshot (435).png" height=400px width=700px/>
+<img src="Screenshots/Screenshot (436).png" height=400px width=700px/>
+<img src="Screenshots/Screenshot (437).png" height=400px width=700px/>
+<img src="Screenshots/Screenshot (438).png" height=400px width=700px/>
